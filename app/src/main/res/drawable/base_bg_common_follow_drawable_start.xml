@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@mipmap/base_ic_dark_follow"
+        android:maxLevel="1" />
+
+
+    <item
+        android:drawable="@mipmap/base_ic_plus_light_unfollow"
+        android:maxLevel="2" />
+
+
+</level-list>

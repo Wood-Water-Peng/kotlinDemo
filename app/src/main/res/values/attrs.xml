@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CommonFollow">
+        <attr name="size" format="string" />
+        <attr name="mode" format="integer" />
+        <attr name="bgColor" format="color" />
+    </declare-styleable>
+</resources>
